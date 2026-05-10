@@ -21,6 +21,5 @@
 ### 添加静默启动：
 ‍```
 sleep 15
-
 sh /root/fakesip-linux-x86_64/FakeSIP_SelectIP.sh 3
 ‍```
